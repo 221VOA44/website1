@@ -1,0 +1,8 @@
+#a= int(input("enter the first no."))
+#b= int(input("enter the second no."))
+#print("sum=",(a + b))
+a= int(input("enter the first subject mark"))
+b=int(input("enter the second subject mark"))
+c=int(input("enter the third subject mark"))
+d= int(input("enter the fourth subject mark"))
+print ("percentage=",(a+b+c+d)/4)
